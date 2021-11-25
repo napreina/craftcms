@@ -1,0 +1,17 @@
+.idea
+.env
+Source/.idea/*
+*.log
+*.bak
+*.DS_Store
+*.orig
+*.sass-cache/*
+*Thumbs.db
+*aspnet_client/*
+Build/*
+*.sass-cache
+node_modules/
+vendor/
+/bower_components
+cpresources/*
+/src/web/assets/**/dist/**/*.map
